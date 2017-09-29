@@ -1,0 +1,31 @@
+{
+    "using_ios": false,
+    "using_android": true,
+    "remote_config": false,
+    "messaging": false,
+    "crash_reporting": false,
+    "storage": false,
+    "facebook_auth": true,
+    "google_auth": true,
+    "admob": false,
+    "invites": false
+}
+
+{
+    "uid": "gVosBYZ4psOmxxrel91bghkKKoL2",
+    "name": "Gerlis Álvarez Cardona",
+    "email": "gerlis1997@gmail.com",
+    "emailVerified": false,
+    "providers": [
+        {
+            "id": "firebase"
+        },
+        {
+            "id": "facebook.com",
+            "token": "EAAHa8MseJdwBAHGzC23DwTICZAm1ZCBL0XilxQeUSiLXjNMsVPZCmioa6MDsbqVp3BAkdE76y5rZCcC4yHv4YXhf0sZANvkWzjJdpZCWpUqjF3xvxNmWO1aglYhoKV50yxhs6agjkwjtsZAHnzJlR5quDAsZBaIXyvFH14asltGd0Rq78VU5ZB90dcZCLzgirrv8AnDioNYCkNCVORR7SCL6mcq6Shb8lwYD4ZD"
+        }
+    ],
+    "anonymous": false,
+    "phoneNumber": null,
+    "profileImageURL": "https://scontent.xx.fbcdn.net/v/t1.0-1/p100x100/21192931_1513385615388746_8252849014572267434_n.jpg?oh=d2b8b7470201b00b707e61bb04c2ac5f&oe=5A3E0974"
+}

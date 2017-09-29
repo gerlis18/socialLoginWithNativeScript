@@ -1,0 +1,22 @@
+// Add your native dependencies here:
+
+// Uncomment to add recyclerview-v7 dependency
+dependencies {
+  compile 'com.facebook.android:facebook-android-sdk:[4,5)'
+}
+
+android {  
+  defaultConfig {  
+    generatedDensities = []
+    multiDexEnabled true
+    applicationId = "org.nativescript.loginTest"  
+  }  
+
+  dexOptions {
+    javaMaxHeapSize "4g"
+  }
+
+  aaptOptions {  
+    additionalParameters "--no-version-vectors"  
+  }  
+} 
